@@ -9,5 +9,6 @@ The code for building this dataset is available at: https://github.com/terrybroa
 
 For more information on this dataset, refer to the datasheet (`datasheet.md`)
 
+Built for educational purposes. 
 
 
