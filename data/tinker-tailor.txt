@@ -1,0 +1,8 @@
+Tinker, Tailor,
+Soldier, Sailor,
+Rich Man, Poor Man,
+Beggar Man, Thief.
+Rich Man, Poor Man,
+Beggar Man, Thief,
+Doctor, Lawyer, (or “Merchant”)
+Indian Chief.
